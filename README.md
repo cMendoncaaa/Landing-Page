@@ -1,5 +1,4 @@
 
-Claro! Aqui está um exemplo de como você pode criar um README para o seu projeto de Landing Page:
 
 Landing Page
 Este projeto consiste em uma landing page simples e responsiva, criada com HTML, CSS e JavaScript. O objetivo é proporcionar uma introdução clara e visualmente atraente para uma marca, produto ou serviço, além de garantir uma boa experiência de navegação em dispositivos móveis e desktop.
